@@ -15,10 +15,40 @@ body {
 
 .list {
   list-style: none;
+}
+
+.navlinks {
   font-size: 18px;
   color: white;
 }
 
+.ourprocess {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.sections {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.details {
+  font-size: 14px;
+}
+
 a:link{
   color: white;
+}
+
+.header h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.copy {
+  font-size: 11px;
+  text-align: left;
+  color: white;
+  background-color: dimgray;
 }
